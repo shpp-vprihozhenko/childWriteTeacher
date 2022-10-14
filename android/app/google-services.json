@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845681793213",
+    "project_id": "children-write-teacher",
+    "storage_bucket": "children-write-teacher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845681793213:android:6c090556173affae653fd4",
+        "android_client_info": {
+          "package_name": "com.example.children_write_teacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845681793213-apvbcf40e05ie9u53i7olet11qgunjla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOOkEpRIVQE7929htCqXUVUzYsG24oOx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845681793213-apvbcf40e05ie9u53i7olet11qgunjla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
